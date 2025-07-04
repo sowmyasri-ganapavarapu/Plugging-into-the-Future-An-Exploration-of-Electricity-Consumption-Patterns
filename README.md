@@ -48,9 +48,9 @@ Dashboard 3
 
 
 As I wrap up my internship, I’m excited to share the final outcome of my learning journey – a comprehensive Tableau dashboard that visualizes electricity consumption patterns in a meaningful way. This project reflects my growth in data analysis, storytelling, and dashboard design.
+                                                                        THANK YOU!
 
-                                                                            THANK YOU!
-
+                               
 ---
 
 Contributed by: Sowmya Sri Ganapavarapu  
