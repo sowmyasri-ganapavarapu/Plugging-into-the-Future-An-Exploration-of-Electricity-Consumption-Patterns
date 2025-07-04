@@ -20,7 +20,7 @@ This Tableau dashboard project explores electricity consumption trends across di
 ## 📸 Dashboard Preview
 
 Dashboard 1 
-![Dashboard 1](Dashboard1.png)
+![Dashboard 1](https://github.com/user-attachments/assets/f0ba438a-bb36-4cbd-9c9f-640f235af277)
 
  Dashboard 2 
 ![Dashboard 2](Dashboard2.png)
