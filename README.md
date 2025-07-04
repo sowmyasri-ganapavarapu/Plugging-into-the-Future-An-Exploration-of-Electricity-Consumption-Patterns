@@ -23,7 +23,7 @@ Dashboard 1
 ![Dashboard 1](https://github.com/user-attachments/assets/f0ba438a-bb36-4cbd-9c9f-640f235af277)
 
  Dashboard 2 
-![Dashboard 2](Dashboard2.png)
+![Dashboard 2](https://github.com/user-attachments/assets/844111de-1660-4818-b5a4-5cd5e599522b)
 
 Dashboard 3 
 ![Dashboard 3](Dashboard3.png)
