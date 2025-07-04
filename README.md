@@ -6,12 +6,14 @@ This Tableau dashboard project explores electricity consumption trends across di
 
 ## 📁 Repository Structure
 
-- 1_Project_Initialization_and_Planning/ – Problem statement, proposal & plan  
-- 2_Data_Collection_and_Preprocessing/ – Raw & cleaned data + reports  
-- 3_Data_Visualization/– Charts & insights built in Tableau  
-- 4_Final_Dashboard/ – Final .twbx Tableau dashboard file  
-- 5_Report_Story/– Insight report / presentation slides  
-- 6_Documentation_and_Demo/– Documentation PDF & optional demo video
+- 1.Assignments/ – Initial tasks and exercises  
+- 2.Ideation Phase/ – Brainstorming and idea finalization  
+- 3.Requirement Analysis/ – Gathering and documenting system requirements  
+- 4.Project Design Phase/ – System and dashboard design artifacts  
+- 5.Project Planning Phase/ – Timeline, task allocation, and roadmap  
+- 6.Project Executable Files/ – Final Tableau dashboard (.twbx) and datasets  
+- 7.Functional & Performance Testing/ – Test cases and results  
+- 8.Doc and Demo/ – Final documentation and video walkthrough
 
 ---
 
