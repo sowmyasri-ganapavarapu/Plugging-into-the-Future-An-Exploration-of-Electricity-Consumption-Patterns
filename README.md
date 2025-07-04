@@ -26,7 +26,7 @@ Dashboard 1
 ![Dashboard 2](https://github.com/user-attachments/assets/844111de-1660-4818-b5a4-5cd5e599522b)
 
 Dashboard 3 
-![Dashboard 3](Dashboard3.png)
+![Dashboard 3](https://github.com/user-attachments/assets/5efe0dae-beaf-48f6-bbcd-63354db91ca9)
 
 ---
 
