@@ -42,11 +42,10 @@ Dashboard 3
 ## ⚙️ Tools Used
 
 - Tableau Public  
-- MS Excel (Data cleaning)  
+- MS Excel   
 - GitHub  
-- Google Docs / Slides  
+- Google Docs 
 
-## 🏁 Final Update from My Internship Journey
 
 As I wrap up my internship, I’m excited to share the final outcome of my learning journey – a comprehensive Tableau dashboard that visualizes electricity consumption patterns in a meaningful way. This project reflects my growth in data analysis, storytelling, and dashboard design.
 
